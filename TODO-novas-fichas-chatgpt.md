@@ -22,7 +22,7 @@ Cada nova ficha contém, quando aplicável: título, breve descrição, minha pe
 
 | ID | Ficha proposta | Trechos do compartilhamento | Fragmentação | Edição IA | Espiritualização | Próxima ação |
 |---|---|---|---|---|---|---|
-| 017 | **Consulta a Exu: conhecimento, liberdade e a decisão de não ferir** | Mensagens 23 e 25 | Em andamento | Pendente | Aplicável; resposta original já usa vozes espirituais, revisar sem amputar | Criar a ficha integral, anonimizar terceiros e conferir que não inclui anexos privados. |
+| 017 | **Consulta a Exu: conhecimento, liberdade e a decisão de não ferir** | Mensagens 23 e 25 | Concluída | Concluída | Aplicável; resposta espiritual da fonte preservada com anonimização | Publicada em `b06f6cc`; o teor da pergunta que aparece nas duas imagens permanece não reproduzido e não foi inferido. |
 | 018 | **Louis Vuitton, propósito e o próximo capítulo — revisão de texto para LinkedIn** | Mensagens 26–29 (duas rodadas de pergunta e resposta) | Pendente | A resposta final já existe na fonte; registrar integralmente e revisar apenas a pergunta | Não aplicável | Criar uma ficha com as duas rodadas completas, sem reduzir o texto final nem suprimir a primeira resposta. |
 
 ## Conteúdo a registrar fora das fichas ou manter pendente
@@ -45,7 +45,7 @@ Cada nova ficha contém, quando aplicável: título, breve descrição, minha pe
 
 | Data | ID/documento | Commit | Observação |
 |---|---|---|---|
-| — | TODO inicial | A registrar | — |
-| — | Ficha 017 | A registrar | — |
+| 2026-09-28 | TODO inicial | `edaf73b` | Publicado e verificado em `origin/main`. |
+| 2026-09-28 | Ficha 017 | `b06f6cc` | Publicada e verificada em `origin/main`; imagens não reproduzidas. |
 | — | Ficha 018 | A registrar | — |
 | — | Observações editoriais | A registrar | — |
